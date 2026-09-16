@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt contient un parcours pédagogique en français consacré à Uniswap v4 : singleton, unlock, deltas, hooks et liquidité extensible. Consultez le [sommaire du parcours](docs/fr/README.md).
+
 # Uniswap v4 Core
 
 [![Lint](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml)
